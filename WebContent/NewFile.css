@@ -1,0 +1,78 @@
+@CHARSET "UTF-8";
+*{margin: 0; padding: 0; list-style: none;text-decoration : none}
+.con{
+	width:903px;
+	min-height: 560px;
+	margin:20px auto 0;
+	border:1px solid #ccc;
+	overflow: hidden;
+}
+.title{
+
+	height:128px;
+	line-height: 100px;
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+	background: url(images/banner.png) 0 0 no-repeat;
+}
+.con_1{
+	padding-top: 50px;
+	width:240px;
+	min-height: 460px;
+	text-align: center;
+	border-right: 1px solid #ccc;
+	background: url(images/bg_left.png) 0 0 repeat;
+}
+.con_1 a{
+	width: 80px;
+	background: url(images/icon_listlia.gif) 2px 10px no-repeat;
+}
+.select{
+	float: left;
+}
+.text{
+	line-height: 30px;
+	width:589px;
+	height:350px;
+	margin: 30px;
+	position:relative ;
+}
+.text table{
+	border-collapse:collapse;
+	text-align: center;
+}
+.text table tr{
+	width:150px;
+	height:20px;
+	border: 1px solid #ccc;
+}
+.text table td{
+	width:150px;
+	height:20px;
+	border: 1px solid #ccc;
+}
+.zhuce{
+	width:80px;
+	height:20px;
+	position:absolute;
+	left:48px;
+	bottom:-23px;
+}
+.quxiao{
+	width:80px;
+	height:20px;
+	position:absolute;
+	left:148px;
+	bottom:-23px;
+}
+
+
+
+
+
+
+
+
+
+
+
